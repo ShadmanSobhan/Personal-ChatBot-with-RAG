@@ -23,9 +23,6 @@ An advanced chatbot with Retrieval-Augmented Generation (RAG) capabilities desig
 2. **Run in Google Colab**:
    - Open the notebook in Google Colab
    - Run all cells or just the quick start function:
-     ```python
-     interface = quick_start()
-     ```
 
 3. **First Run**:
    - The chatbot will prompt you for:
